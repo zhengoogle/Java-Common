@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZipLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZipLibrary_jar</output-path>
+    <root id="archive" name="Java-Base.ZipLibrary.main.jar">
+      <element id="module-output" name="Java-Base.ZipLibrary.main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ZipLibrary/libs/zip4j_1.3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

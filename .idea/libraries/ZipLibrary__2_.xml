@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ZipLibrary (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ZipLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
