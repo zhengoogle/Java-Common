@@ -8,7 +8,8 @@ import com.wf.captcha.base.Captcha;
 import java.awt.*;
 
 /**
- * OKHttp utils test
+ * EasyCaptcha utils test
+ * https://github.com/whvcse/EasyCaptcha
  */
 public class CaptchaTest {
   public static void captcha() {
