@@ -8,7 +8,7 @@ import java.io.IOException;
  *     author: Blankj
  *     blog  : http://blankj.com
  *     time  : 2016/10/09
- *     desc  : å…³é—­ç›¸å…³å·¥å…·ç±»
+ *     desc  : ¹Ø±ÕÏà¹Ø¹¤¾ßÀà
  * </pre>
  */
 public final class CloseUtils {
@@ -18,7 +18,7 @@ public final class CloseUtils {
     }
 
     /**
-     * å…³é—­ IO
+     * ¹Ø±Õ IO
      *
      * @param closeables closeables
      */
@@ -36,7 +36,7 @@ public final class CloseUtils {
     }
 
     /**
-     * å®‰é™å…³é—­ IO
+     * °²¾²¹Ø±Õ IO
      *
      * @param closeables closeables
      */
